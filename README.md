@@ -30,6 +30,3 @@ the following properties:
 * [TrimeshJS](https://github.com/mikolalysenko/TrimeshJS)
 * [unindex-mesh](https://github.com/hughsk/unindex-mesh)
 
-## License
-
-MIT. See [LICENSE.md](http://github.com/hughsk/icosphere/blob/master/LICENSE.md) for details.
